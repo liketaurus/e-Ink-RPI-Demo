@@ -9,7 +9,12 @@
 * COVID.py - отображение текущей статистики по заболеваемости COVID'19 в Украине (с covid19api.com)
 
 Выглядит все это, в принципе, очень даже неплохо!
+
+Вот, к примеру, системная информация и погода:
 ![](https://github.com/liketaurus/e-Ink-RPI-Demo/blob/master/Stats-result.jpg)
+
+А вот - статистика заболеваемости:
+![](https://github.com/liketaurus/e-Ink-RPI-Demo/blob/master/COVID-result.jpg)
 
 ## Источники
 В ходе работы я пользовался и вдохновлялся следующими материалами:
