@@ -9,8 +9,10 @@
 * COVID.py - отображение текущей статистики по заболеваемости COVID'19 в Украине (с covid19api.com)
 
 Выглядит все это, в принципе, очень даже неплохо!
+![](https://github.com/liketaurus/e-Ink-RPI-Demo/blob/master/Stats-result.jpg)
 
 ## Источники
-* Официальная вики https://www.waveshare.com/wiki/2.13inch_e-Paper_HAT
-* https://github.com/waveshare/e-Paper
-* https://github.com/headHUB/waveshare-2.13-epaper-hat
+В ходе работы я пользовался и вдохновлялся следующими материалами:
+* [Официальная вики](https://www.waveshare.com/wiki/2.13inch_e-Paper_HAT) производителя
+* [Официальный репозиторий](https://github.com/waveshare/e-Paper) с примерами от производителя
+* [Eще примеры](https://github.com/headHUB/waveshare-2.13-epaper-hat) работы с электронными чернилами
